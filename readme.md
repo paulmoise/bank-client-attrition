@@ -1,4 +1,4 @@
-# 📊 Bank Client Churn Prediction
+# Bank Client Churn Prediction
 
 A comprehensive end-to-end data science project to predict client attrition (churn) for a bank, using real-world demographic, economic, and behavioral data. This project demonstrates advanced data cleaning, feature engineering, temporal data splitting to prevent leakage, and robust machine learning modeling.
 
